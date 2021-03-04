@@ -32,6 +32,7 @@ header {
   margin-left: auto;
   background-color: pink;
   display: flex;
+  flex-wrap: wrap;
 }
 
 .color1 {
@@ -77,5 +78,35 @@ header {
   height: 200px;
   background-color: #e4ff8d;
 }
+.color9 {
+  width: 200px;
+  height: 200px;
+  background-color: #d9e5ff;
+}
+.color10 {
+  width: 200px;
+  height: 200px;
+  background-color: #bad3ff;
+}
+.color11 {
+  width: 200px;
+  height: 200px;
+  background-color: #a4c6ff;
+}
+.color12 {
+  width: 200px;
+  height: 200px;
+  background-color: #8eb8ff;
+}
 
+footer {
+  background-color: #848282;
+  height: 120px;
+  width: 100%;
+  text-align: center;
+}
 
+footer>p {
+  color: #fff;
+  line-height: 120px;
+}
