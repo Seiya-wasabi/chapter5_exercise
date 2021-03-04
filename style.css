@@ -30,3 +30,33 @@ header {
   margin-bottom: 50px;
   background-color: pink;
 }
+
+.green {
+  width: 100%;
+  display: flex;
+  margin: 0 auto;
+}
+
+.color1 {
+  width: 200px;
+  height: 200px;
+  background-color: #e6ffe9;
+}
+
+.color2 {
+  width: 200px;
+  height: 200px;
+  background-color: #cbffd3;
+}
+
+.color3 {
+  width: 200px;
+  height: 200px;
+  background-color: #aeffbd;
+}
+
+.color4 {
+  width: 200px;
+  height: 200px;
+  background-color: #93ffab;
+}
