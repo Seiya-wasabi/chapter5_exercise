@@ -3,10 +3,19 @@
   padding: 0;
   box-sizing: border-box;
   color: #6c6b6b;}
-
+header {
+  width: 100%;
+  padding: 20px 0;
+  text-align: center;
+}
 .nav-list {
   text-align: center;
   padding: 15px 0;
   border: 1px solid;
+}
+
+.nav-list-item {
+  display: inline-block;
+  padding: 15px 20px;
 }
 
