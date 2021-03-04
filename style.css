@@ -4,22 +4,9 @@
   box-sizing: border-box;
   color: #6c6b6b;}
 
-header {
+.nav-list {
   text-align: center;
-}
-.heading {
-  padding: 20px;
-  text-align: center;
-}
-
-.nav-menu {
+  padding: 15px 0;
   border: 1px solid;
-  display: flex;
-  text-align: center;
-  list-style: none;
 }
 
-li {
-  padding: 20px 20px;
-  text-align: center;
-}
